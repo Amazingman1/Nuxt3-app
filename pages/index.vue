@@ -8,7 +8,6 @@
 -->
 <template>
   <div class="p-5">
-<<<<<<< HEAD
     <div class="flex justify-center max-h-screen">
       <div class="max-h-full">
         <!-- <video autoplay loop muted playsinline preload="auto" id="banner-video">
@@ -17,14 +16,6 @@
 
         <video src="http://dev.hd.huadaocart/assets/vedio/vedio-1.mp4" width="100%" height="100%" autoplay loop muted playsinline preload="auto"></video>
       </div>
-=======
-    <UInput v-model="value" @input="debounceFn(value)" />
-    <div class="pt-5">
-      <UButton @click="debounceFn(value)">按钮</UButton>
-    </div>
-    <div class="mt-5">
-      <NuxtLink to="/about">关于我门/about us</NuxtLink>
->>>>>>> a7585f43b3d86862910d4f1280ecdc85ee726935
     </div>
   </div>
 

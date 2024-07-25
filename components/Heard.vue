@@ -8,7 +8,6 @@
 -->
 
 <template>
-<<<<<<< HEAD
   <div class="h-15 bg-white text-black flex justify-between items-center px-8 py-8">
     <div class="">产品展示</div>
     <div class="flex items-center gap-10">
@@ -22,10 +21,6 @@
         alt="Avatar"
       />
     </div>
-=======
-  <div class="h-10 bg-blue-500 text-white flex justify-center items-center">
-    这是头部
->>>>>>> a7585f43b3d86862910d4f1280ecdc85ee726935
   </div>
 
 </template>
